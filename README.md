@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there! I'm Than.
 
-<!--
-**thanerenevv/thanerenevv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+What do I do?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have knowledge on Embedded Systems like ESP32,STM32,Arduino,Teensy, and other microcontrollers. I create projects when I'm bored, and sometimes for competitions. My projects will be listed in my repositorys that you can visit.
+
+What can I do?
+
+C++ / Python
+Embedded Systems (MCUS)
+PCB/Schematic Design
+
+Where can you contact me?
+
+Instagram : thanprobably
+Discord : thanerenevv
+Email : thaneatbanana@gmail.com
