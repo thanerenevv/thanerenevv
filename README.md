@@ -15,9 +15,9 @@ My interests includes,
 - Low level hardware programming
 - Designing complete end to end projects (hardware + software)
 
-If you wish to contact me then,<br>
+Contact Info<br>
 
 Instagram : thanprobably<br>
 Discord : @thanerenevv<br>
-Phone : 0829982967<br>
+Phone : +66829982967 (Thailand)<br>
 Email : thantheonlyone@gmail.com<br>
