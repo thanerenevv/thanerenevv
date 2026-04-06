@@ -8,7 +8,7 @@ I have knowledge on embeded system design with microcontrollers and IoT projects
 - ESP32, Raspberry Pi (MCU and SBC), STM32
 - Schematic Design, PCB Design/Routing
 - 3D Modeling/CAD
-- C++/C, Python
+- C++, Python
 
 My interests includes,
 - IoT systems and smart devices
